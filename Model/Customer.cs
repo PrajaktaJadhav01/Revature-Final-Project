@@ -1,11 +1,21 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;   // ADD THIS
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
 namespace CustomerManagement
 {
     public class Customer
     {
+        // MongoDB ID (for MongoDB documents)
+        [NotMapped]   // ADD THIS
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string? Id { get; set; }
+
+        // SQL Server Primary Key (existing)
         [Key]
         public int CustomerId { get; set; }
 
@@ -30,5 +40,7 @@ namespace CustomerManagement
         public bool IsDeleted { get; set; }
 
         public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
+
+        public virtual Segment? Segment { get; set; }
     }
 }

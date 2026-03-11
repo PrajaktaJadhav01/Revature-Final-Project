@@ -319,6 +319,7 @@ C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Azure.Core.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Azure.Identity.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Castle.Core.dll
+C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\DnsClient.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Humanizer.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
@@ -356,8 +357,12 @@ C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\MongoDB.Driver.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\SharpCompress.dll
+C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\Snappier.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\System.ClientModel.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\System.CodeDom.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\System.Composition.AttributedModel.dll
@@ -371,6 +376,7 @@ C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\System.Memory.Data.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\ZstdSharp.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\user\Desktop\Final Revature Project\CustomerManagement\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll

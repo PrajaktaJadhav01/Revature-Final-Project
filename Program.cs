@@ -10,6 +10,9 @@ namespace CustomerManagement
         {
             using var db = new AppDbContext();
 
+            // MongoDB Service
+            var mongoService = new MongoCustomerService();
+
             while (true)
             {
                 Console.WriteLine("\n=================================");
@@ -30,7 +33,7 @@ namespace CustomerManagement
 
                 switch (choice)
                 {
-                    case 1: CustomerMenu(db); break;
+                    case 1: CustomerMenu(db, mongoService); break;
                     case 2: AddressMenu(db); break;
                     case 3: ContactMenu(db); break;
                     case 4: InteractionMenu(db); break;
@@ -45,7 +48,7 @@ namespace CustomerManagement
         // CUSTOMER MANAGEMENT
         // ===============================
 
-        static void CustomerMenu(AppDbContext db)
+        static void CustomerMenu(AppDbContext db, MongoCustomerService mongoService)
         {
             while (true)
             {
@@ -65,6 +68,7 @@ namespace CustomerManagement
                 if (choice == 1)
                 {
                     var customers = db.Customers
+                        .Include(c => c.Segment)
                         .Where(c => !c.IsDeleted)
                         .ToList();
 
@@ -79,7 +83,7 @@ namespace CustomerManagement
                         Console.WriteLine($"Company Size  : {c.CompanySize}");
                         Console.WriteLine($"Type          : {c.Type}");
                         Console.WriteLine($"Classification: {c.Classification}");
-                        Console.WriteLine($"SegmentId     : {c.SegmentId}");
+                        Console.WriteLine($"Segment       : {c.Segment?.SegmentName}");
                         Console.WriteLine($"AccountValue  : {c.AccountValue}");
                         Console.WriteLine($"HealthScore   : {c.HealthScore}");
                     }
@@ -94,7 +98,6 @@ namespace CustomerManagement
                     Console.Write("Email: ");
                     string email = Console.ReadLine() ?? "";
 
-                    // CHECK DUPLICATE EMAIL
                     if (db.Customers.Any(c => c.Email == email))
                     {
                         Console.WriteLine("❌ Email already exists. Use different email.");
@@ -113,7 +116,6 @@ namespace CustomerManagement
                     Console.Write("Company Size: ");
                     string companySize = Console.ReadLine() ?? "";
 
-                    // VALIDATE TYPE
                     string type;
                     while (true)
                     {
@@ -130,7 +132,6 @@ namespace CustomerManagement
                         Console.WriteLine("Invalid Type! Enter Business or Individual.");
                     }
 
-                    // VALIDATE CLASSIFICATION
                     string[] validClassifications = { "Prospect", "Active", "Inactive", "VIP", "At-Risk" };
                     string classification;
 
@@ -149,7 +150,6 @@ namespace CustomerManagement
                         Console.WriteLine("Invalid Classification! Try again.");
                     }
 
-                    // SAFE NUMERIC INPUTS
                     int segmentId;
                     Console.Write("SegmentId: ");
                     while (!int.TryParse(Console.ReadLine(), out segmentId))
@@ -182,10 +182,24 @@ namespace CustomerManagement
                         ModifiedDate = DateTime.Now
                     };
 
+                    // Save to SQL Server
                     db.Customers.Add(customer);
                     db.SaveChanges();
 
+                    // Save to MongoDB
+                    mongoService.AddCustomer(customer);
+
                     Console.WriteLine("✅ Customer Added Successfully");
+
+                    // Show MongoDB data in terminal
+                    Console.WriteLine("\nCustomers Stored in MongoDB:");
+
+                    var mongoCustomers = mongoService.GetCustomers();
+
+                    foreach (var mc in mongoCustomers)
+                    {
+                        Console.WriteLine($"{mc.CustomerName} | {mc.Email} | {mc.Phone}");
+                    }
                 }
 
                 // UPDATE CUSTOMER
@@ -208,7 +222,7 @@ namespace CustomerManagement
                     Console.WriteLine("✅ Customer Updated Successfully");
                 }
 
-                // DELETE CUSTOMER (TRIGGER SAFE)
+                // DELETE CUSTOMER
                 else if (choice == 4)
                 {
                     Console.Write("Customer ID: ");
@@ -221,7 +235,7 @@ namespace CustomerManagement
                     Console.WriteLine("✅ Customer Soft Deleted Successfully");
                 }
 
-                // SEARCH
+                // SEARCH CUSTOMER
                 else if (choice == 5)
                 {
                     Console.Write("Enter Customer Name: ");

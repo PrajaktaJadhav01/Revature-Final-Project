@@ -4,6 +4,8 @@
 USE master;
 GO
 
+SELECT * FROM Segment;
+
 -- Drop database if exists
 IF EXISTS (SELECT * FROM sys.databases WHERE name = 'CustomerManagementDB')
 BEGIN
