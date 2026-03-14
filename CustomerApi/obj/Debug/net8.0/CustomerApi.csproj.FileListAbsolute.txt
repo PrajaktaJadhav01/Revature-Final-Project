@@ -1,0 +1,174 @@
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.exe
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.pdb
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.csproj.AssemblyReference.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.AssemblyInfoInputs.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.AssemblyInfo.cs
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.csproj.CoreCompileInputs.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.sourcelink.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets\msbuild.CustomerApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerApi.props
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerApi.props
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerApi.props
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\scopedcss\bundle\CustomerApi.styles.css
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\refint\CustomerApi.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.pdb
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.deps.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.runtimeconfig.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.exe
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.deps.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.runtimeconfig.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.pdb
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\Customer.B987AAA6.Up2Date
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.genruntimeconfig.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\ref\CustomerApi.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Consul.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\appsettings.Development.json
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\appsettings.json
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.deps.json
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.runtimeconfig.json
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.exe
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.exe
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.deps.json
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.runtimeconfig.json
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerApi.pdb
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Azure.Core.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Castle.Core.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Consul.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\DnsClient.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\SharpCompress.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Snappier.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\ZstdSharp.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.dll
+E:\Revature-Final-Project\CustomerApi\bin\Debug\net8.0\CustomerManagement.pdb
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.csproj.AssemblyReference.cache
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.AssemblyInfoInputs.cache
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.AssemblyInfo.cs
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.csproj.CoreCompileInputs.cache
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.sourcelink.json
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets\msbuild.CustomerApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerApi.props
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerApi.props
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerApi.props
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\scopedcss\bundle\CustomerApi.styles.css
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\Customer.B987AAA6.Up2Date
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.dll
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\refint\CustomerApi.dll
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.pdb
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\CustomerApi.genruntimeconfig.cache
+E:\Revature-Final-Project\CustomerApi\obj\Debug\net8.0\ref\CustomerApi.dll

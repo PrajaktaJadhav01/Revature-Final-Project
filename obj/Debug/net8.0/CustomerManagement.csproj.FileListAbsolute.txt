@@ -1,0 +1,284 @@
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.csproj.AssemblyReference.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.AssemblyInfoInputs.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.AssemblyInfo.cs
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.csproj.CoreCompileInputs.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.sourcelink.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.exe
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.deps.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.runtimeconfig.json
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.pdb
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\Snappier.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\Customer.25B2F545.Up2Date
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\refint\CustomerManagement.dll
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.pdb
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.genruntimeconfig.cache
+C:\Users\Harshali Jadhav\Revature-Final-Project\obj\Debug\net8.0\ref\CustomerManagement.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.exe
+E:\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.deps.json
+E:\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.runtimeconfig.json
+E:\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\CustomerManagement.pdb
+E:\Revature-Final-Project\bin\Debug\net8.0\Azure.Core.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Azure.Identity.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Castle.Core.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\DnsClient.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Humanizer.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\SharpCompress.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\Snappier.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.CodeDom.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ZstdSharp.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Revature-Final-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.csproj.AssemblyReference.cache
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.AssemblyInfoInputs.cache
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.AssemblyInfo.cs
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.csproj.CoreCompileInputs.cache
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.sourcelink.json
+E:\Revature-Final-Project\obj\Debug\net8.0\Customer.25B2F545.Up2Date
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.dll
+E:\Revature-Final-Project\obj\Debug\net8.0\refint\CustomerManagement.dll
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.pdb
+E:\Revature-Final-Project\obj\Debug\net8.0\CustomerManagement.genruntimeconfig.cache
+E:\Revature-Final-Project\obj\Debug\net8.0\ref\CustomerManagement.dll

@@ -1,0 +1,6 @@
+@ConsulDemo_HostAddress = http://localhost:7000
+
+GET {{ConsulDemo_HostAddress}}/api/order/1
+Accept: application/json
+
+###

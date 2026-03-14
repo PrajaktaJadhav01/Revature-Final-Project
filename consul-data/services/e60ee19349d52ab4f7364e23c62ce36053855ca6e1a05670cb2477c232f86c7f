@@ -1,0 +1,1 @@
+{"Token":"","Service":{"ID":"customer-service-0b0a1fc1-ee4c-4205-9075-de85f968aa27","Service":"customer-service","Tags":null,"Address":"localhost","Meta":null,"Port":5292,"Weights":{"Passing":1,"Warning":1},"EnableTagOverride":false,"Proxy":{"Mode":"","MeshGateway":{},"Expose":{}},"Connect":{},"PeerName":"","CreateIndex":0,"ModifyIndex":0},"Source":"remote"}
